@@ -88,3 +88,9 @@ body {
 	color: #292b2c;
 	text-shadow: 2px 2px 2px grey;
 }
+
+h2 span { 
+  margin-top: -75px;       
+  padding-bottom: 75px; 
+  display: block; 
+}
